@@ -29,7 +29,7 @@
 <!-- ============================================= -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anubrata-dev&label=Profile%20Views&color=00BFFF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=anubr21&label=Profile%20Views&color=00BFFF&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <!-- ============================================= -->
@@ -80,7 +80,7 @@ I'm a passionate **Second Year B.Tech CSE** student with a **9.09 CGPA** who lov
   <a href="https://wa.me/918977039397">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://github.com/Anubrata-dev">
+  <a href="https://github.com/anubr21">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
@@ -258,11 +258,11 @@ I'm a passionate **Second Year B.Tech CSE** student with a **9.09 CGPA** who lov
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anubrata-dev&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=8B00FF&text_color=C9D1D9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anubrata-dev&theme=midnight-purple&hide_border=true&background=0D1117&stroke=00BFFF&ring=8B00FF&fire=FF1493&currStreakNum=C9D1D9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anubr21&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=8B00FF&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anubr21&theme=midnight-purple&hide_border=true&background=0D1117&stroke=00BFFF&ring=8B00FF&fire=FF1493&currStreakNum=C9D1D9" />
   <br/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubrata-dev&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=C9D1D9" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anubrata-dev&theme=midnight_purple" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubr21&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=C9D1D9" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anubr21&theme=midnight_purple" />
 </div>
 
 <!-- ============================================= -->
@@ -272,7 +272,7 @@ I'm a passionate **Second Year B.Tech CSE** student with a **9.09 CGPA** who lov
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anubrata-dev&theme=react-dark&bg_color=0D1117&color=00BFFF&line=8B00FF&point=FF1493&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anubr21&theme=react-dark&bg_color=0D1117&color=00BFFF&line=8B00FF&point=FF1493&area=true&hide_border=true" />
 </div>
 
 <!-- ============================================= -->
@@ -284,7 +284,7 @@ I'm a passionate **Second Year B.Tech CSE** student with a **9.09 CGPA** who lov
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anubrata-dev&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anubr21&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" />
 </div>
 
 <!-- ============================================= -->
@@ -322,7 +322,7 @@ I'm a passionate **Second Year B.Tech CSE** student with a **9.09 CGPA** who lov
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubrata-bhattacharyya-457291263/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anubratabhattacharyya81@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918977039397)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anubrata-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anubr21)
 
 </div>
 
